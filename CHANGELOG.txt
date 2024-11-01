@@ -1,0 +1,7 @@
+# Change Log
+ 1.0.0 
+ 1.0.1 - FIXED MODAL PAYMENT
+ 1.1.5 - Added new mini cart function
+ 1.1.6 - Improved styles
+ 1.1.7 - Stability improvement
+ 1.1.8 - Fixed user data sync
